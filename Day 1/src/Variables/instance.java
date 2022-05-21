@@ -8,6 +8,6 @@ public class instance
 	public static void main(String args[])
 	{
 		instance obj=new instance();
-		System.out.println(+obj.c);
+		System.out.println("this is instance veriable  "+obj.c);
 	}
 }
